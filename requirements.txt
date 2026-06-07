@@ -1,5 +1,5 @@
 python-telegram-bot==20.7
 yfinance==0.2.40
-httpx==0.27.0
+httpx==0.25.2
 APScheduler==3.10.4
 pytz==2024.1
